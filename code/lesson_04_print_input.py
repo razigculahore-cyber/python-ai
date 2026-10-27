@@ -1,3 +1,9 @@
+"""Task 1.4: Business Prompt Builder.
+
+Asks for a name, business type, problem and monthly budget, then prints a
+ready-to-paste AI prompt for that business.
+"""
+
 name = input("Your name: ")
 business = input("Business type: ")
 problem = input("Biggest problem: ")
